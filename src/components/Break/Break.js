@@ -1,10 +1,11 @@
 import React from 'react';
 import { setTheDb } from '../../utilities/fakeDb';
 
-const Break = () => {
+const Break = ({ gap, setGap }) => {
     const handleDb = (e) => {
         const seconds = e.slice(0, 2);
         setTheDb(seconds);
+        setGap(seconds)
     }
     return (
         <div className='mt-5 m-2'>
