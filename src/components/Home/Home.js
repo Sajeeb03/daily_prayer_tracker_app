@@ -32,12 +32,12 @@ const Home = () => {
             <div className='row-span-4 m-2 lg:m-10 mb-0 lg:mb-0'>
 
                 <div className='flex items-center gap-2 mb-4'>
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-8 h-8 text-cyan-400 mt-3 sm:mt-3 md:mt-5   ">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-8 h-8 text-cyan-400 mt-3 sm:mt-3 md:mt-5  lg:mt-0  ">
                         <path d="M11.47 3.84a.75.75 0 011.06 0l8.69 8.69a.75.75 0 101.06-1.06l-8.689-8.69a2.25 2.25 0 00-3.182 0l-8.69 8.69a.75.75 0 001.061 1.06l8.69-8.69z" />
                         <path d="M12 5.432l8.159 8.159c.03.03.06.058.091.086v6.198c0 1.035-.84 1.875-1.875 1.875H15a.75.75 0 01-.75-.75v-4.5a.75.75 0 00-.75-.75h-3a.75.75 0 00-.75.75V21a.75.75 0 01-.75.75H5.625a1.875 1.875 0 01-1.875-1.875v-6.198a2.29 2.29 0 00.091-.086L12 5.43z" />
                     </svg>
 
-                    <h1 className='text-1xl sm:text-3xl md:text-4xl lg:text-4xl font-serif font-bold text-cyan-400 mt-3 sm:mt-3 md:mt-5 p-0'>Daily Prayer Tracker</h1>
+                    <h1 className='text-1xl sm:text-3xl md:text-4xl lg:text-4xl font-serif font-bold text-cyan-400 mt-3 sm:mt-3 md:mt-5 lg:mt-0 p-0'>Daily Prayer Tracker</h1>
                 </div>
                 <div className='grid grid-rows-6 sm:grid-rows-3 md:grid-rows-3 lg:grid-rows-2 gap-2 sm:grid-flow-col md:grid-flow-col lg:grid-flow-col'>
                     {

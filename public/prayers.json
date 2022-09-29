@@ -7,20 +7,6 @@
         "id": 1
     },
     {
-        "name": "Dhuhr",
-        "details": "This is one of the five obligatory prayers. Which we pray at noon.",
-        "img": "https://www.quranmualim.com/wp-content/uploads/2021/10/How-to-Perform-Zuhr-Prayer-%D8%B5%D9%8E%D9%84%D9%8E%D8%A7%D8%A9-%D9%B1%D9%84%D8%B8%D9%8F%D9%91%D9%87%D9%92%D8%B1%E2%80%8E-Prayer-Rakatsa-1024x743.jpg",
-        "duration": 30,
-        "id": 2
-    },
-    {
-        "name": "Asr",
-        "details": "This is one of the five obligatory prayers. Which we pray in the afternoon.",
-        "img": "https://media.istockphoto.com/photos/muslim-man-is-praying-in-mosque-picture-id1001021150?k=20&m=1001021150&s=612x612&w=0&h=6IQjNNZzZUKdz5COrH4P3Yj1QakFytxZcxMKUXIz02A=",
-        "duration": 15,
-        "id": 3
-    },
-    {
         "name": "Magrib",
         "details": "This is one of the five obligatory prayers.Which we pray after sunset.",
         "img": "https://lifeinsaudiarabia.net/wp-content/uploads/2022/04/6406-What-is-qada-time-for-Fajr-Duhr-Asr-Maghrib-Isha-00.jpg.webp",
@@ -28,11 +14,25 @@
         "id": 4
     },
     {
+        "name": "Dhuhr",
+        "details": "This is one of the five obligatory prayers. Which we pray at noon.",
+        "img": "https://www.quranmualim.com/wp-content/uploads/2021/10/How-to-Perform-Zuhr-Prayer-%D8%B5%D9%8E%D9%84%D9%8E%D8%A7%D8%A9-%D9%B1%D9%84%D8%B8%D9%8F%D9%91%D9%87%D9%92%D8%B1%E2%80%8E-Prayer-Rakatsa-1024x743.jpg",
+        "duration": 30,
+        "id": 2
+    },
+    {
         "name": "Isha",
         "details": "This is one of the five obligatory prayers.Which we pray at night.",
         "img": "https://www.prayertimenyc.com/wp-content/uploads/2016/07/isha-prayer-768x396.jpg",
         "duration": 40,
         "id": 5
+    },
+    {
+        "name": "Asr",
+        "details": "This is one of the five obligatory prayers. Which we pray in the afternoon.",
+        "img": "https://media.istockphoto.com/photos/muslim-man-is-praying-in-mosque-picture-id1001021150?k=20&m=1001021150&s=612x612&w=0&h=6IQjNNZzZUKdz5COrH4P3Yj1QakFytxZcxMKUXIz02A=",
+        "duration": 15,
+        "id": 3
     },
     {
         "name": "Tahajjud",
