@@ -28,8 +28,8 @@ const Home = () => {
     }
 
     return (
-        <div className='grid grid-rows-2 lg:grid-rows-1 grid-flow-row lg:grid-flow-col bg-slate-200'>
-            <div className='row-span-4 m-0 lg:m-10'>
+        <div className='grid grid-rows-2 lg:grid-rows-1 grid-flow-row lg:grid-flow-col'>
+            <div className='row-span-4 m-0 lg:m-10 mb-0 lg:mb-0'>
 
                 <div className='flex items-center gap-2 mb-4'>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-8 h-8 text-cyan-400 mt-3 sm:mt-3 md:mt-5   ">
