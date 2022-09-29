@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Fajr",
+        "details": "This is one of the five obligatory prayer. Which we pray in the morning",
+        "img": "https://www.ultraupdates.com/wp-content/uploads/2019/04/fajr-Quotes.jpg",
+        "duration": 20
+    },
+    {
+        "name": "Dhuhr",
+        "details": "This is one of the five obligatory prayer. Which we pray at noon",
+        "img": "https://www.quranmualim.com/wp-content/uploads/2021/10/How-to-Perform-Zuhr-Prayer-%D8%B5%D9%8E%D9%84%D9%8E%D8%A7%D8%A9-%D9%B1%D9%84%D8%B8%D9%8F%D9%91%D9%87%D9%92%D8%B1%E2%80%8E-Prayer-Rakatsa-1024x743.jpg",
+        "duration": 30
+    },
+    {
+        "name": "Asr",
+        "details": "This is one of the five obligatory prayer. Which we pray in the afternoon",
+        "img": "https://en.wikipedia.org/wiki/Asr_prayer#/media/File:Afternoon_sun.jpg",
+        "duration": 15
+    },
+    {
+        "name": "Magrib",
+        "details": "This is one of the five obligatory prayer.Which we pray after sunset",
+        "img": "https://lifeinsaudiarabia.net/wp-content/uploads/2022/04/6406-What-is-qada-time-for-Fajr-Duhr-Asr-Maghrib-Isha-00.jpg.webp",
+        "duration": 25
+    },
+    {
+        "name": "Isha",
+        "details": "This is one of the five obligatory prayer.Which we pray at night",
+        "img": "http://www.quranreading.com/blog/wp-content/uploads/2015/01/Isha-Prayer.png",
+        "duration": 40
+    },
+    {
+        "name": "Tahajjud",
+        "details": "This is one of the optional prayer.Which is prayed after one third of the night",
+        "img": "https://beanahomequran.com/wp-content/uploads/2020/12/tahajjud-prayer.jpg",
+        "duration": 60
+    }
+]
