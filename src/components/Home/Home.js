@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Prayers from '../Prayers/Prayers';
+import Profile from '../Profile/Profile';
 
 const Home = () => {
     const [prayers, setPrayers] = useState([]);
@@ -27,8 +28,8 @@ const Home = () => {
                     }
                 </div>
             </div>
-            <div className='row-span-1 bg-red-600 lg:bg-red-800'>
-                hello
+            <div className='row-span-1 bg-white'>
+                <Profile></Profile>
             </div>
         </div>
     );
