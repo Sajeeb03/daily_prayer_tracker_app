@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Prayers = ({ prayer }) => {
+const Prayers = ({ prayer, handleClick }) => {
     const { name, details, img, duration } = prayer;
     return (
         <div className='border-2 bg-white h-[360px] rounded-lg font-serif relative'>
@@ -8,8 +8,8 @@ const Prayers = ({ prayer }) => {
                 <img className='w-full h-40 rounded-lg' src={img} alt="" />
                 <h1 className='text-3xl font-semibold'>{name}</h1>
                 <p>{details}</p>
-                <p className='font-semibold'>Duration: {duration}minutes</p>
-                <button className='border-2 bg-cyan-400 rounded-lg p-2 mt-5 text-blue font-serif font-semibold absolute bottom-1'>Prayed Today</button>
+                <p className='font-semibold font-sans'>Duration: {duration} minutes</p>
+                <button onClick={() => handleClick(prayer.duration)} className='border-2 bg-cyan-400 rounded-lg p-2 mt-5 text-blue font-serif font-semibold absolute bottom-1'>Prayed Today</button>
             </div>
         </div>
     );

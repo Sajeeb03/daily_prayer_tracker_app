@@ -4,7 +4,7 @@ import image from '../../images/resized.jpg';
 const Profile = () => {
     return (
         <div>
-            <div className='flex items-center gap-1 mt-5 m-1'>
+            <div className='flex items-center gap-1 mt-5 m-2 mb-5'>
                 <img className='rounded-lg h-14 w-12' src={image} alt="" />
                 <div className='font-serif'>
                     <h2 className='text-2xl font-bold'>Muntasir Rahman</h2>
