@@ -1,3 +1,19 @@
+# Daily Prayer Tracker 
+
+Live site (https://daily-prayer-tracker.netlify.app/)
+
+# This Website contains 
+* A daily activities tracking app.
+* Count total time user expended.
+* Set A break 
+
+# Technology Used
+* React
+* Tailwind CSS
+* Local storage.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
